@@ -41,3 +41,12 @@ I strongly believe that AI should **respect the structure of reality**, not just
 - Docking & ADMET-aware scoring
 
 > Research-oriented project focused on scientific experimentation and reproducibility.
+
+---
+
+### 🌊 DeepFlow — Physics-Informed Neural Networks (PINNs)
+**Inverse Navier–Stokes with PINNs + SIREN**
+- Solves inverse problems with PDE constraints
+- Comparison: data-only NN vs PINN vs analytical / CFD baselines (if available)
+- Focus: stability, interpretability, and physics-aware learning
+
