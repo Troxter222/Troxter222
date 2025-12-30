@@ -1,6 +1,6 @@
 # Hi, I'm Ali 👋
 
-##📫 Contact
+###📫 Contact
 
  - Email: troxtergrif@gmail.com
 
