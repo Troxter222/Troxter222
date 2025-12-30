@@ -1,5 +1,9 @@
 # Hi, I'm Ali 👋
 
+##📫 Contact
+
+ - Email: troxtergrif@gmail.com
+
 I'm a student and aspiring research engineer interested in **AI, machine learning, and physics-aware systems**.
 
 My main focus is building **models that understand and simulate real-world systems**, combining:
