@@ -41,9 +41,10 @@ I'm working towards becoming a research engineer, diving deep into machine learn
 
 ## Tech Stack & Workflow
 
-* Languages: Python, C/C++
-* ML & Math: PyTorch, NumPy, OpenCV. I stick to fundamentals—writing system sims and working out gradients by hand to really get the math.
-* OS & Infrastructure: Running stuff on Arch Linux (with a custom kernel), using barebones CLI tools, and a custom multi-monitor VR setup for focus.
+* **Core Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **Deep Learning & Math:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+* **Development Environment:** Arch Linux (running on a custom-optimized kernel).
+* **Core Philosophy:** I stick to fundamentals. I often derive gradients by hand and write system simulators from scratch to ensure a deep, uncompromising grasp of the underlying mathematics.
 
 ---
 
