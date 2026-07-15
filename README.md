@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Ali</h1>
 
 <p align="center">
-  <strong>16 y/o • Tashkent, Uzbekistan</strong>
+  <strong>Tashkent, Uzbekistan</strong>
 </p>
 
 <p align="center">
