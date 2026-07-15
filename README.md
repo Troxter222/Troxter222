@@ -15,15 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Troxter222&label=PROFILE+VIEWS&color=22D3EE&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
   <a href="mailto:troxtergrif@gmail.com">
-    <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=protonmail&logoColor=0d1117" />
+    <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=protonmail&logoColor=0d1117"/>
   </a>
   <a href="https://github.com/Troxter222">
-    <img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=0d1117" />
+    <img src="https://img.shields.io/badge/GitHub-22D3EE?style=for-the-badge&logo=github&logoColor=0d1117"/>
   </a>
 </p>
 
