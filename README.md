@@ -1,51 +1,56 @@
-# Ali
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"/>
 
-Contact: troxtergrif@gmail.com
+# Hi, I'm Ali
 
-I'm working towards becoming a research engineer, diving deep into machine learning, physics, and systems programming. My aim? Build models that don't just crunch numbers—they actually get the laws of physics. I'm convinced AI's future hinges on solid math, interpretability, and leaving those mysterious "black box" models behind.
+**16 y/o • Tashkent, Uzbekistan**
 
----
+Working towards becoming a research engineer, diving deep into machine learning, physics, and systems programming. My aim is to build models that don't just crunch numbers — they actually get the laws of physics. I believe AI's future depends on solid math, interpretability, and moving past "black box" models.
 
-## Research & Engineering Interests
+## 📫 Reach me
 
-* Physics-aware AI and PINNs: I train neural nets that have to follow the rules set by PDEs and ODEs, weaving math directly into machine learning.
-* Scientific computing and optimization: I work on speeding up simulations and crafting optimizers with strong mathematical foundations.
-* Data pipelines & ML Ops: I love streamlining preprocessing—making tools that cut boilerplate and turbocharge training.
-* Low-level & systems engineering: Writing tight, efficient code, tweaking kernels, and really understanding how algorithms run right on the hardware.
+[![Email](https://img.shields.io/badge/-Email-1ca0f1?style=flat&labelColor=1ca0f1&logo=protonmail&logoColor=white)](mailto:troxtergrif@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/Troxter222)
 
----
+## 🔬 Research & Engineering Interests
 
-## Projects
+- **Physics-aware AI and PINNs** — neural networks constrained by PDEs and ODEs, weaving math directly into machine learning
+- **Scientific computing and optimization** — speeding up simulations, building optimizers with strong mathematical foundations
+- **Data pipelines & ML Ops** — streamlining preprocessing, cutting boilerplate, turbocharging training
+- **Low-level & systems engineering** — writing tight, efficient code, understanding how algorithms actually run on hardware
+
+## 🚀 Projects
 
 ### PsiLogic Optimizer
-* Designed and tested PsiLogic, a deep learning optimizer I built to be a stable alternative to AdamW.
-* Checked how fast it converges and benchmarked it against big names like BERT, ViT, and GPT-2.
-* Zeroed in on keeping gradients stable and cutting training time—without sacrificing generation quality.
+Quantum-inspired deep learning optimizer designed as a stable alternative to AdamW. Benchmarked convergence speed and stability against Adam/AdamW/Lion across image, text, and optimizer test-function tasks (CIFAR-100, Tiny ImageNet, SST-2, AG News, WikiText-2), with a "Quantum Decay" component identified as the strongest contributor.
 
-### FastNum
-* Built a minimalist Python library that auto-detects input types (images, text, categories, batches) and turns them into NumPy arrays, no setup needed.
-* Added a safe tokenization pipeline, nailed down deterministic text decoding with isolated padding.
-* Streamlined preprocessing—tokenization, padding, one-hot encoding, image normalization—all collapsed into one API call.
+### MUG — Molecular Generation
+Transformer-based latent models for molecular generation and structural design, with custom scoring functions locked to chemical validity, docking scores, and ADMET properties.
 
-### DeepFlow (PINNs)
-* Modeled fluid dynamics solving inverse problems, keeping PDE constraints front and center.
-* Looked at the tradeoffs between pure data-driven nets, physics-informed setups, and old-school analytical/CFD benchmarks.
-* Tested periodic activation functions (SIREN) for handling complex physical fields.
+## 🛠️ Tech Stack
 
-### MUG Drug Design
-* Used transformer-based latent models for molecular generation and structural design.
-* Built custom scoring functions locked to chemical validity, docking scores, and ADMET properties.
-* Pushed for scientific reproducibility and a flexible, modular architecture.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Troxter222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ali's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Troxter222&layout=compact&langs_count=6&theme=tokyonight&hide=html,css,text" alt="Ali's Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Troxter222&theme=tokyo-night&hide_border=true" alt="Ali's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Troxter222/Troxter222/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-## Tech Stack & Workflow
-
-* **Core Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-* **Deep Learning & Math:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-* **Development Environment:** Arch Linux (running on a custom-optimized kernel).
-* **Core Philosophy:** I stick to fundamentals. I often derive gradients by hand and write system simulators from scratch to ensure a deep, uncompromising grasp of the underlying mathematics.
-
----
-
-If the projects or ideas resonate, just drop me a line.
+*If any of these projects or ideas resonate, drop me a line.*
